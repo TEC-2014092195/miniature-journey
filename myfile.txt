@@ -1,0 +1,5 @@
+tibas;01/10/2015;brinco alto
+sj;02/08/2015;estado etilico
+cartago;02/08/2015;estado etilico
+cartago;02/08/2015;estado etilico
+cartago;02/08/2015;estado etilico
